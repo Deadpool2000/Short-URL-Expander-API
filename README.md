@@ -10,7 +10,7 @@ The **Short URL Expander API** allows you to expand shortened URLs and follow al
 
 ## API Endpoints
 
-### `POST /expand`
+### `GET /extract`
 
 Expands a shortened URL by following all redirections until the final destination URL is reached.
 
