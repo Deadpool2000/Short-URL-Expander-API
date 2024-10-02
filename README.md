@@ -5,7 +5,7 @@ The **Short URL Expander API** allows you to expand shortened URLs and follow al
 ## Features
 
 - Expand shortened URLs
-- Follow all possible redirections (3xx HTTP status codes)
+- Follow all possible redirections
 - Get the final destination URL
 
 ## API Endpoints
